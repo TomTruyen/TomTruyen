@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&color=2196F3&pause=1000&width=435&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 ---
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working at [Wisemen](https://www.wisement.digital) as an Android Developer
+- 🔭 I’m currently working at [Wisemen](https://www.wisemen.digital) as an Android Developer
 - 🌱 I’m currently learning Ktor. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm a passionate individual who thrives on the electrifying beats of rock/metal music, pumps iron at the gym, and indulges in the wonders of technology.
@@ -40,8 +40,6 @@
   
 <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
   
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-
 <img style="padding:5px;" align="center" alt="Raspberry PI" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
 
 </p>
