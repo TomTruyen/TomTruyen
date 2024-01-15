@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working at [Wisemen](https://www.wisemen.digital) as an Android Developer
 - 🌱 I’m currently learning Ktor + KMP. 
-- 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm a passionate individual who thrives on the electrifying beats of rock/metal music, pumps iron at the gym, and indulges in the wonders of technology.
 
 ---
