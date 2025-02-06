@@ -7,7 +7,7 @@ My name is Tom, I am an Android Developer with over 2 years of experience.
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" />
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase,docker" />
 </div>
 
 ### 🤝🏻 Connect
