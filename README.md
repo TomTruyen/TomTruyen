@@ -1,7 +1,5 @@
 # Hey There! 👋
 
-My name is Tom, I am an Android Developer with over 2 years of experience. 
-
 ### 💻 Languages, Frameworks, Tools
 
 <div style="display: flex">
